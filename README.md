@@ -1,5 +1,5 @@
-##Олдырев Николай
-##Возраст: <a id="age"></a>
+Олдырев Николай '\n'
+Возраст: <a id="age"></a>
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-
+<script>
 function getAge() {
     let teg = document.getElementById('age');
     var dateString = "1992-10-07";
@@ -28,3 +28,4 @@ function getAge() {
     }
     return teg.append(age);
 }
+</script>
