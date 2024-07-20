@@ -10,7 +10,7 @@ Education:
     <li> Qualification:  Magistr
 <p>Programming languages:
 <li> Java
-<li> Pythot - studying now
+<li> Python - studying now
         
     
   
