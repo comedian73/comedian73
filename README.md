@@ -1,6 +1,8 @@
-<h1 align="center">Привет, меня зовут Николай <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<p>Возраст: 31
-<p>Образование: ТТИ ЮФУ, Автоматизация технологических процессов и производств, магистр, 2019
+<h1 align="center">Hello, I'm Nikolay <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comedian73)](https://github.com/anuraghazra/github-readme-stats)
+
+        
+    
     
 
   
