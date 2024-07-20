@@ -1,17 +1,11 @@
-<h1 align="center">Hello, I'm Nikolay <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikolay
+===============================================================================================================================
 
-<h3>About me:</h3> 
-<hr>
+Completed a Java developer course and I started learning Python and will soon become a neural network developer.
 
-Age: 31 <p>
-Education:
-    <li>Institute:  TTI SFU
-    <li>Speciality:  Automation of technological processes and production
-    <li> Qualification:  Magistr
-<p>Programming languages:
-<li> Java
-<li> Python - studying now
-        
+* 🌍  I'm based in Rostov-on-Don
+* ✉️  You can contact me at [comedian73@yandex.ru](mailto:comedian73@yandex.ru)
+* 🧠  I'm learning Python
     
   
   
