@@ -23,6 +23,7 @@
 [Ссылка на проект](https://github.com/comedian73/Yolo_fish_detekt)
 
 **Стек:** Python, YOLO , ultralytics
+
 ----
 
 ### AI модель чат бота для помощи молодым мамам
