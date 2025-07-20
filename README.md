@@ -32,7 +32,7 @@
 
 **Стек:** Python, librosa, whisper, TTS, transformers
 
-
+----
 
 ### AI модель чат бота для помощи молодым мамам
 
